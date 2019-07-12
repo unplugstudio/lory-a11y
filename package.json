@@ -1,6 +1,6 @@
 {
   "name": "@unplugstudio/lory-a11y",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Accessibility enhancements for Lory.js sliders",
   "main": "dist/lory-a11y.js",
   "module": "src/index.js",
@@ -49,5 +49,8 @@
     "rimraf": "^2.6.3",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5"
+  },
+  "peerDependencies": {
+    "lory.js": "^2.5.3"
   }
 }
