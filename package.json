@@ -1,6 +1,6 @@
 {
   "name": "@unplugstudio/lory-a11y",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Accessibility enhancements for Lory.js sliders",
   "main": "dist/lory-a11y.js",
   "module": "src/index.js",
